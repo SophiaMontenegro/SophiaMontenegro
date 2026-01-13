@@ -50,18 +50,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophiamontenegro&show_icons=true&locale=en&layout=compact" alt="sophiamontenegro" /></p>
 -->
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaMontenegro&show_icons=true&theme=tokyonight)
+### 📊 GitHub Activity
 
----
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SophiaMontenegro&theme=github)
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=SophiaMontenegro&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SophiaMontenegro)
 
----
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SophiaMontenegro)
 
-### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaMontenegro&layout=compact&theme=tokyonight)
+### 🔥 My Focus
+- Artificial Intelligence & Machine Learning
+- Full-Stack Development (SvelteKit + FastAPI)
+- Data Analysis & Modeling
 
 ---
 
